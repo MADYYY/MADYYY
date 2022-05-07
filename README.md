@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MADY
-- 👀 I’m interested in WEBDev
+- 👀 I’m interested in W3B dev
 - 🌱 I’m currently learning HTML5-CSS3-javascript-Nodejs...
 - 💞️ I’m looking to collaborate on nothing for now...
 - 📫 How to reach me https://discord.gg/xPf99a389u
